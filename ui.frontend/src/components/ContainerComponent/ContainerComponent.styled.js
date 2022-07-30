@@ -7,7 +7,7 @@ const ContainerContent = styled.div`
   justify-content: left;
   align-items: left;
   height: 25rem;
-  width: 29rem;
+  width: 28rem;
 `;
 
 const Title = styled.div`

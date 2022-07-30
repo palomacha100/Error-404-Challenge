@@ -3,8 +3,8 @@ import styled from "styled-components";
 const TitleContainer = styled.div`
   display: flex;
   flex: 1;
-  height: 3rem;
-  width: 12rem;
+  height: 2.5rem;
+  width: 100%;
   justify-content: start;
 `;
 
