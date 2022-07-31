@@ -6,25 +6,25 @@ const ContainerContent = styled.div`
   flex-direction: column;
   justify-content: left;
   align-items: left;
-  height: 25rem;
-  width: 28rem;
+  height: 26rem;
+  width: 100%;
 `;
 
 const Title = styled.div`
   font-family: "Space Mono";
-  height: 9rem;
+  height: 8.6rem;
   width: 27rem;
   font-style: normal;
   font-weight: 700;
   font-size: 3rem;
-  line-height: 4.5rem;
+  line-height: 4rem;
   letter-spacing: -0.035em;
   color: #333333;
   margin: 2rem 0 0.5rem 0;
 `;
 
 const Text = styled.div`
-  width: 18.5rem;
+  width: 16rem;
   height: 8rem;
   font-family: "Space Mono";
   font-style: normal;
@@ -49,6 +49,7 @@ const Button = styled.button`
   letter-spacing: -0.035em;
   text-transform: uppercase;
   color: #ffffff;
+  margin-bottom: 3rem;
 `;
 
 export { ContainerContent, Title, Text, Button };
