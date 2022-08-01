@@ -24,6 +24,7 @@ import "./TitleContent/TitleContent";
 import "./BigText/BigText";
 import "./ContainerComponent/Container";
 import "./FooterContent/FooterContent";
+import "./PrincipalImage/PrincipalImage";
 
 import { MapTo } from "@adobe/aem-react-editable-components";
 
