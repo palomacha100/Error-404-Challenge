@@ -6,7 +6,7 @@ const ContainerContent = styled.div`
   flex-direction: column;
   justify-content: left;
   align-items: left;
-  height: 25rem;
+  height: 32.5rem;
   width: 100%;
   @media (max-width: 768px) {
     height: 21rem;
@@ -23,7 +23,7 @@ const Title = styled.div`
   line-height: 3.8rem;
   letter-spacing: -0.035em;
   color: #333333;
-  margin: 2rem 0 0.7rem 0;
+  margin: 5rem 0 0.7rem 0;
   @media (max-width: 768px) {
     width: 100%;
     height: 6rem;
