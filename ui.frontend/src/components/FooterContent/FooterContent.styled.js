@@ -11,7 +11,6 @@ const FooterContainer = styled.div`
 `;
 
 const TextFooter = styled.div`
-  width: 287px;
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 500;
